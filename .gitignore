@@ -1,0 +1,5 @@
+*.o
+.idea/
+cmake-build-debug/
+build/
+CMakeLists.txt.user
